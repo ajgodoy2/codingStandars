@@ -1,2 +1,1 @@
-# codingStandars
-Worksop 3 Coding Standars
+# Coding Standards, Software Engineering II
